@@ -25,10 +25,11 @@ This version of the TCG Simulator focuses on the visual aspects of card interact
 
 ## References
 
-- [simple card effect]([https://www.youtube.com/watch?v=o2e7uh4VDXA](https://www.youtube.com/watch?v=3l5XIqCrIBQ))
+- [simple card effect](https://www.youtube.com/watch?v=3l5XIqCrIBQ)
 
 ## Future development
 
 1. Gameplay system
 2. Deck Building & Card Collection
 3. In-Game Currency and Progression
+4. Web based game
