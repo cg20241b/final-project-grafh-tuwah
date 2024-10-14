@@ -26,6 +26,7 @@ This version of the TCG Simulator focuses on the visual aspects of card interact
 ## References
 
 - [simple card effect](https://www.youtube.com/watch?v=3l5XIqCrIBQ)
+- [game similar to the concept](https://youtu.be/bv9hBddB77M?si=e327UmMV1dAaKvrv)
 
 ## Future development
 
