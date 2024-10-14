@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZUtYscbQ)
 
-# Simple TCG Simulator - Visual Focused
+# Simple TCG Simulator - Ko Re Sy! Card collection
 
 This project is a simplified Trading Card Game (TCG) simulator built in Unity, focusing on card asset visuals and basic player interaction. The goal is to showcase card animations, shaders, and textures in a visually appealing and interactive way, while minimizing complex game logic.
 
@@ -25,12 +25,10 @@ This version of the TCG Simulator focuses on the visual aspects of card interact
 
 ## References
 
-- [simple card game](https://www.youtube.com/watch?v=o2e7uh4VDXA)
+- [simple card effect]([https://www.youtube.com/watch?v=o2e7uh4VDXA](https://www.youtube.com/watch?v=3l5XIqCrIBQ))
 
-## Getting Started
+## Future development
 
-### Prerequisites
-
-- Unity (latest version)
-- Basic understanding of Unity’s 2D/3D engine and C#
-- Image editor (for custom card textures)
+1. Gameplay system
+2. Deck Building & Card Collection
+3. In-Game Currency and Progression
