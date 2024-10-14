@@ -14,7 +14,6 @@ This version of the TCG Simulator focuses on the visual aspects of card interact
 - Card flipping animation (front and back view).
 - Dynamic card visuals with glow, hover, and selection effects.
 - Background and card visual effects using shaders.
-- Simplified game arena with animated lighting.
 
 ## Technical Concepts
 
@@ -23,8 +22,6 @@ This version of the TCG Simulator focuses on the visual aspects of card interact
 2. **Textures**: Custom textures will be applied to both the front and back of each card. This allows each card to have its own unique artwork.
 
 3. **Transformations**: Cards can be flipped and zoomed in/out when interacted with. Transformations such as scaling and rotating will be used to animate these actions smoothly.
-
-4. **Lighting**: Dynamic lighting effects will be applied to the board and cards to enhance the visual experience. Simple lighting changes can indicate a change in phase (e.g., turn or action).
 
 ## References
 
